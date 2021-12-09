@@ -9,8 +9,6 @@
 #
 # Note: Ignore spaces and capitalization. So "d go" is an anagram of "God" and "dog" and "o d g".
 
-
-
 # Method 1
 
 def anagram(s1,s2):
